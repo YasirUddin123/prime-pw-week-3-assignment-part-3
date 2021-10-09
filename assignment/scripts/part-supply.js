@@ -54,6 +54,7 @@ for(let i = 0; i < supplyChanges.length; i++){
 }
 
 // updated program with cleaner string template.
+// then made sure this works on console
 
 // STRETCH GOALS
 console.log('---  Stretch Goals  ---');
@@ -71,6 +72,7 @@ for(value of supplyChanges){
 }
 
 // updated program with cleaner string template
+// then made sure this works on console
 
 // 8. Rewrite the `for` loop from #6 as a `while` loop.
 console.log('8. Showing supplyChanges with "while" loop');
@@ -88,6 +90,7 @@ while(i < supplyChanges.length){
 }
 
 // updated program with cleaner string template
+// then made sure this works on console 
 
 // 9. Write a loop to determine the total number of parts available by
 //    adding up all the numbers in the 'supplyChanges' array.
