@@ -90,7 +90,7 @@ while(i < supplyChanges.length){
 }
 
 // updated program with cleaner string template
-// then made sure this works on console 
+// then made sure this works on console
 
 // 9. Write a loop to determine the total number of parts available by
 //    adding up all the numbers in the 'supplyChanges' array.
@@ -101,3 +101,5 @@ for(let i = 0; i < supplyChanges.length; i++){
   totalSum += supplyChanges[i];
 }
 console.log(totalSum);
+
+// assignment's good to go for submission 
